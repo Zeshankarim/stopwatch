@@ -1,0 +1,34 @@
+h1{
+    display: inline-block;
+   
+  
+}
+.bodyy{
+    background-color: darkgray;
+    border: 1px solid brown;
+    text-align: center;
+    height: 400px;
+    padding: 55px;
+   
+}
+
+.forh1{
+    width: 77px;
+    background-color: white;
+}
+button{
+    font-size: 20px;
+
+}
+.red{
+    background-color:red;
+}
+.green{
+    background-color:lightgreen;
+}
+.yellow{
+    background-color: yellow;
+}
+button:hover{
+    font-size: 21px;
+}
